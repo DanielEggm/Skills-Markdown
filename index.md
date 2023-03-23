@@ -4,3 +4,5 @@
 #### and smaller
 ##### and even smaller!
 ###### up to six steps!
+
+![Image of the Labtocat](https://octodex.github.com/images/labtocat.png)
