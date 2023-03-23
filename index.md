@@ -11,3 +11,8 @@
 $ git clone
 Clone git repository
 ```
+
+- [x] create task list
+- [ ] turn on GitHub Pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
